@@ -1,2 +1,2 @@
 password_generator/settings.py
-password_generator/db.sqlite3
+db.sqlite3
